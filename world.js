@@ -1,0 +1,1 @@
+console.log("this the world of politics");
